@@ -1,0 +1,8 @@
+mcp[cli]
+crewai-tools[mcp]
+crewai
+agentops
+python-dotenv
+requests
+httpx
+fastmcp[cli]

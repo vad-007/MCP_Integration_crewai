@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+.python-version
+notes.txt
+mynotes.txt
+agentops.log
+remote.txt
+push_error.txt
+commit_files.txt
+final_commit_files.txt
+
+# Keep specific MD/TXT files
+!README.md
+!REPLACING_OPENAI_GUIDE.md
+!AGENTOPS_FIX_GUIDE.md
+!FIX_SUMMARY.md
+!QUICK_REFERENCE.md
+!LLM_REPLACEMENT_VISUAL.txt
+!RESOLUTION_SUMMARY.txt
